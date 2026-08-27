@@ -3,7 +3,6 @@
 - 🔭 **Currently exploring:** new opportunities and challenges in tech  
 - 🌱 **Lifelong learner:** continuously improving and acquiring new skills  
 - 🔍 **Research focus:*Gravitational microlensing simulator using classical optics*  
-  ""  
 
 - 📝 **Academic profiles:**  [Lattes](https://lattes.cnpq.br/4593203400508098)
 
