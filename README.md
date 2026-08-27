@@ -18,23 +18,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Bibiaferreiraa">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Bibiaferreiraa&theme=tokyonight" alt="GitHub Streak">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bibiaferreiraa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibiaferreiraa&theme=tokyonight&no-frame=true&margin-w=15">
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
