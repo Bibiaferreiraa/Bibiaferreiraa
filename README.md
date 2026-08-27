@@ -31,7 +31,7 @@
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [lucasspinola3@gmail.com](mailto:beatriz.ferreira.147@ufrn.edu.br)
+- 📧 **Email:** [beatriz.ferreira.147@ufrn.edu.br](mailto:beatriz.ferreira.147@ufrn.edu.br)
 
 ---
 
